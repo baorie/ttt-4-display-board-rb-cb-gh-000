@@ -5,5 +5,5 @@ def format_cell(cell)
 end
 
 def display_board(board)
-
+  format_cell(cell[0])
 end
