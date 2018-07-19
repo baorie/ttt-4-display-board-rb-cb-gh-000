@@ -4,6 +4,6 @@ def format_cell(cell)
   row = " #{cell} "
 end
 
-def display_board
-  
+def display_board(board)
+
 end
