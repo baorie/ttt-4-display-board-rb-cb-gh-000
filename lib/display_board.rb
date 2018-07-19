@@ -3,3 +3,6 @@
 def format_cell(cell)
   row = " #{cell} "
 end
+
+def display_board
+end
